@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails redmine-master: production" uuid="2f43a588-8151-4701-b158-d28323e7796b">
+      <user-name>redmine</user-name>
+      <user-password>dfc7dfd3dff5dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <schema-pattern>redmine.*</schema-pattern>
+      <default-schemas>redmine.*</default-schemas>
+    </data-source>
+    <data-source name="Rails redmine-master: development" uuid="e0360c55-bcfb-4fab-ba1c-5c489a7a900b">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="Rails redmine-master: test" uuid="1665b686-e3db-4e9d-8332-20cd7e9af02b">
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+  </component>
+</project>
