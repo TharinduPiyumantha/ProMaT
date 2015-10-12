@@ -2,6 +2,27 @@ default:
   plugins:
     - image
     - link
+    - template
+    - table
+    - print
+    - save
+    - fullpage
+    - fullscreen
+    - pagebreak
+    - textcolor
+    - noneditable
+    - emoticons
+    - insertdatetime
+    - textpattern
+    - preview
+    - tabfocus
+    - colorpicker
+    - paste
+    - media
+    - autolink
+    - spellchecker
+    - imagetools
+    - lists
 
 alternate:
   selector: textarea.table-editor
